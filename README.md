@@ -12,7 +12,7 @@ The online course thus simulates the workshop steps presented in the following p
 - *M. Wiese, K. Serwa, A. Besier, A S. Marion-Jetten, E. Bittner, \textit{Establishing technical debt management — A five-step workshop approach and an action research study}, Journal of Systems and Software, Volume 231, 2026, 112606, ISSN 0164-1212, [https://doi.org/10.1016/j.jss.2025.112606]*
 - *M. Wiese, K. Serwa, E. Bittner, \textit{A Practical Guide for Establishing a Technical Debt Management Process}, 2026 IEEE/ACM International Conference on Technical Debt (TechDebt), 2026, Rio de Janeiro, Brazil, [https://doi.org/10.1145/3794915.3795789]*
 
-Furhtermore, the online course is based on the TDM Guide published in the following GitHub repository: [TDM Guide]{https://github.com/Mari-Wie/TDMGuide/tree/main}
+Furhtermore, the online course is based on the TDM Guide published in the following GitHub repository: [TDM Guide|https://github.com/Mari-Wie/TDMGuide/tree/main]
 
 
 The online course is based on the Moodle platform [https://moodle.org/], which is “free and open-source software” that can be installed and used independently and free of charge under the GNU General Public License.
