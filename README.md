@@ -1,4 +1,4 @@
-# TDM online course
+# Online Course for Managing Technical Debt
 
 The course iteratively goes through the following phases:
 1. Meeting at the end of the previous iteration: Scheduling the next step
@@ -18,7 +18,7 @@ Furthermore, the online course is based on the TDM Guide published in the follow
 The online course is based on the Moodle platform [https://moodle.org/], which is “free and open-source software” that can be installed and used independently and free of charge under the GNU General Public License.
 The course can be imported there and used directly.
 
-# TDM-Online-Kurs
+# Online-Kurs zum Management technischer Schulden
 
 Der Kurs durchläuft iterativ die folgenden Phasen:
 1. Termin am Ende der vorigen Iteration: Terminplanung des folgenden Schritts
