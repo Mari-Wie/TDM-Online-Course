@@ -37,3 +37,7 @@ Darüber hinaus basiert der Online-Kurs auf dem TDM-Leitfaden, der im folgenden 
   
 Der Online-Kurs basiert auf der Moodle-Plattform [https://moodle.org/], die als "Free and Open-Source-Software" unter der GNU General Public License unabhängig und kostenfrei installiert und genutzt werden kann.
 Der Kurs kann dort importiert und direkt genutzt werden.
+
+
+## Funding
+We gratefully acknowledge funding from the German Federal Ministry of Research, Technology, and Space under the grant 16IS24031 (for the Software Campus project SWC-TD).
